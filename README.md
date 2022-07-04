@@ -10,9 +10,7 @@
 -**chuzhou-anhui-China**
 - University&Profession
   - **CHZU - financial engineering - English**
-- Site
-  - **<https://wu-kan.cn>**
-- [Resume](https://wu-kan.github.io/resume/resume.pdf)
+- [Resume](https://yuanping.github.io/resume/resume.pdf)
 
 <!-- .slide vertical=true -->
 
