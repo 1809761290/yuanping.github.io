@@ -7,9 +7,10 @@
 ## Contact
 
 -address
+
 -**chuzhou-anhui-China**
 - University&Profession
-  - **Chuzhou University(CHZU) - financial engineering - English**
+  - **Chuzhou University(CHZU) - Financial engineering - English**
 <!-- .slide vertical=true -->
 
 - Phone
@@ -27,8 +28,10 @@
 
 -2021-7
 **暑期社会实践：赴歙县探求歙砚制作过程**
+
 -2021-9
 **全国大学生数学建模竞赛：安徽省三等奖**
+
 -2022-6
 **全国大学生统计建模竞赛：安徽省二等奖**
 
