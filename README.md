@@ -8,7 +8,7 @@
 
 -address
 
--**chuzhou-anhui-China**
+-**C**
 - University&Profession
   - **Chuzhou University(CHZU) - Financial engineering - English**
 <!-- .slide vertical=true -->
