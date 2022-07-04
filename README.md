@@ -37,34 +37,12 @@
 
 <!-- .slide -->
 
-## Experience
+## Interest and Hobbies
 
-- Teach Assistant of Compilation Principle, [Feb. 2022 - Jun. 2022](https://xianweiz.github.io/teach/dcs290/s2022.html) (expected)
+- Read about Literature,Art and Science and Technology
 - Teach Assistant of Computer System Organization, Sep. 2021 - Jan. 2022
 - Intern of Inference Engine, Speech & Audio Team (Beijing), Bytedance AI Lab, Feb. 2021 - Aug. 2021
 - Leader of [SYSU-SCC](https://github.com/SYSU-SCC), Mar. 2020 - Jul. 2021
 - Quiz Setter, Judge and Host of the Closing Ceremony for [SYSU Programing Contest](https://wu-kan.cn/2020/11/29/SYSU-Collegiate-Programming-Contest-2020,-Onsite/), Oct. 2020
 
-<!-- .slide -->
 
-## Blogs
-
-<!-- .slide -->
-
-## Toolchains
-
-<!-- .slide vertical=true -->
-
-- **C/C++**, Familiar
-  - **CUDA/HIP/ROCm**, Familiar&Learning
-  - **MPI**, Familiar
-  - **OpenMP**, Familiar
-- **Python**, Familiar
-
-<!-- .slide vertical=true -->
-
-- **Markdown**, Familiar
-- **$\LaTeX$**, Familiar
-- **Shell**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
