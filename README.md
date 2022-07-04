@@ -6,8 +6,10 @@
 
 ## Contact
 
-- Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+-address
+-**chuzhou-anhui-China**
+- University&Profession
+  - **CHZU - financial engineering - English**
 - Site
   - **<https://wu-kan.cn>**
 - [Resume](https://wu-kan.github.io/resume/resume.pdf)
@@ -15,12 +17,11 @@
 <!-- .slide vertical=true -->
 
 - Phone
-  - **+86 18756280097**
+  - **+86 13155061276**
 - WeChat
-  - **Wu-\_-Kan**
+  - **Jesse-Livemore-Y**
 - E-mail:
-  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
+  - **jesse-livemore@foxmail.com**
 
 <!-- .slide -->
 
