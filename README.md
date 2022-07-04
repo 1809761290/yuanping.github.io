@@ -9,9 +9,7 @@
 -address
 -**chuzhou-anhui-China**
 - University&Profession
-  - **CHZU - financial engineering - English**
-- [Resume](https://yuanping.github.io/resume/resume.pdf)
-
+  - **Chuzhou University(CHZU) - financial engineering - English**
 <!-- .slide vertical=true -->
 
 - Phone
