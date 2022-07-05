@@ -40,9 +40,6 @@
 ## Interest and Hobbies
 
 - Read about Literature,Art and Science and Technology
-- Teach Assistant of Computer System Organization, Sep. 2021 - Jan. 2022
-- Intern of Inference Engine, Speech & Audio Team (Beijing), Bytedance AI Lab, Feb. 2021 - Aug. 2021
-- Leader of [SYSU-SCC](https://github.com/SYSU-SCC), Mar. 2020 - Jul. 2021
-- Quiz Setter, Judge and Host of the Closing Ceremony for [SYSU Programing Contest](https://wu-kan.cn/2020/11/29/SYSU-Collegiate-Programming-Contest-2020,-Onsite/), Oct. 2020
-
-
+- Often ponder what history has brought to us
+- Can't resist the charm of digital electronics
+- Exploring: in life; in spirit; in philosophy; on the Internet
